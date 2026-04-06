@@ -18,4 +18,5 @@
 - Battery Toolkit
 
 ## No Longer Exists:
+- KitchenOwl
 - BookLore
