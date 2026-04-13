@@ -7,7 +7,6 @@
 - PairDrop
 - HTTPie CLI
 - HTTPie Desktop
-- fswatch
 
 ## Archived:
 - AgentGPT
