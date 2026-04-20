@@ -18,4 +18,3 @@
 
 ## No Longer Exists:
 - KitchenOwl
-- BookLore
