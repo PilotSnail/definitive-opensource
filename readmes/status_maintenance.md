@@ -4,7 +4,6 @@
 - myDrive
 - VimWiki
 - Olive
-- PairDrop
 - HTTPie CLI
 - HTTPie Desktop
 
@@ -17,4 +16,4 @@
 - Battery Toolkit
 
 ## No Longer Exists:
-- KitchenOwl
+_None_
