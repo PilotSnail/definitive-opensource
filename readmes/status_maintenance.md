@@ -1,8 +1,8 @@
 # Repository Activity Maintenance Report
 
 ## Potentially Abandoned:
+- Duplicacy
 - myDrive
-- VimWiki
 - Olive
 - HTTPie CLI
 - HTTPie Desktop
