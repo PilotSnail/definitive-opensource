@@ -4,6 +4,7 @@
 - Duplicacy
 - myDrive
 - Olive
+- fullmoon
 - HTTPie CLI
 - HTTPie Desktop
 
