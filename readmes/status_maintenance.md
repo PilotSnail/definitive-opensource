@@ -11,6 +11,7 @@
 ## Archived:
 - AgentGPT
 - h2oGPT
+- Roo Code
 - Overseerr
 - Reor
 - Jellyfin Media Player
