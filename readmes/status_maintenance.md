@@ -4,6 +4,7 @@
 - Duplicacy
 - myDrive
 - Olive
+- GitHub Desktop - The Linux Fork
 - fullmoon
 - HTTPie CLI
 - HTTPie Desktop
