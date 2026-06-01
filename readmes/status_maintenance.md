@@ -1,6 +1,7 @@
 # Repository Activity Maintenance Report
 
 ## Potentially Abandoned:
+- GPT4ALL
 - Duplicacy
 - myDrive
 - Olive
@@ -15,6 +16,7 @@
 - Roo Code
 - Overseerr
 - Reor
+- Refact
 - Jellyfin Media Player
 - Battery Toolkit
 
