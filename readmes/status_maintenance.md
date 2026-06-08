@@ -14,6 +14,7 @@
 - AgentGPT
 - h2oGPT
 - Roo Code
+- Void
 - Overseerr
 - Reor
 - Refact
