@@ -13,6 +13,7 @@
 ## Archived:
 - AgentGPT
 - h2oGPT
+- Verba
 - Roo Code
 - Void
 - Overseerr
