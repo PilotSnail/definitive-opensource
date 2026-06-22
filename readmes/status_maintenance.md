@@ -9,6 +9,7 @@
 - fullmoon
 - HTTPie CLI
 - HTTPie Desktop
+- sshx
 
 ## Archived:
 - AgentGPT
