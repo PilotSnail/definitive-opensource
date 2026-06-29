@@ -5,6 +5,7 @@
 - Duplicacy
 - myDrive
 - Olive
+- zsh-autosuggestions
 - GitHub Desktop - The Linux Fork
 - fullmoon
 - HTTPie CLI
