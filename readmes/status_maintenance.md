@@ -5,6 +5,7 @@
 - Duplicacy
 - myDrive
 - Olive
+- Natron
 - zsh-autosuggestions
 - GitHub Desktop - The Linux Fork
 - fullmoon
