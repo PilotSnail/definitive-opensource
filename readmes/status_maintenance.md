@@ -7,6 +7,7 @@
 - myDrive
 - Olive
 - zsh-autosuggestions
+- Quill
 - GitHub Desktop - The Linux Fork
 - fullmoon
 - HTTPie CLI
