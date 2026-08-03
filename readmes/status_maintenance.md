@@ -1,6 +1,7 @@
 # Repository Activity Maintenance Report
 
 ## Potentially Abandoned:
+- WebUI Forge
 - GPT crawler
 - GPT4ALL
 - Duplicacy
@@ -23,7 +24,6 @@
 - Overseerr
 - Reor
 - Refact
-- Jellyfin Media Player
 - Battery Toolkit
 
 ## No Longer Exists:
