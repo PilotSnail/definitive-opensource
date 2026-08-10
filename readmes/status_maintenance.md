@@ -4,9 +4,9 @@
 - WebUI Forge
 - GPT crawler
 - GPT4ALL
-- Duplicacy
 - myDrive
 - Olive
+- CasaOS
 - zsh-autosuggestions
 - Quill
 - GitHub Desktop - The Linux Fork
