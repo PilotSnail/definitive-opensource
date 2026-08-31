@@ -23,6 +23,7 @@
 - Void
 - Overseerr
 - Reor
+- Airweave
 - Refact
 - Battery Toolkit
 
