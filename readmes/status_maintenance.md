@@ -13,6 +13,7 @@
 - fullmoon
 - HTTPie CLI
 - HTTPie Desktop
+- Phoenix
 - sshx
 
 ## Archived:
@@ -23,9 +24,11 @@
 - Void
 - Overseerr
 - Reor
+- File Browser
 - Airweave
 - Refact
 - Battery Toolkit
+- Papermerge DMS
 
 ## No Longer Exists:
 _None_
