@@ -4,7 +4,6 @@
 - WebUI Forge
 - GPT crawler
 - GPT4ALL
-- myDrive
 - Olive
 - CasaOS
 - zsh-autosuggestions
@@ -14,6 +13,7 @@
 - HTTPie CLI
 - HTTPie Desktop
 - Phoenix
+- A/B Street
 - sshx
 
 ## Archived:
