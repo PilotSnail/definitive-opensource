@@ -6,6 +6,7 @@
 - GPT4ALL
 - Olive
 - CasaOS
+- Ice
 - zsh-autosuggestions
 - Quill
 - GitHub Desktop - The Linux Fork
@@ -14,7 +15,6 @@
 - HTTPie Desktop
 - Phoenix
 - A/B Street
-- sshx
 
 ## Archived:
 - AgentGPT
