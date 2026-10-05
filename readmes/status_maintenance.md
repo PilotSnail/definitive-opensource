@@ -4,13 +4,16 @@
 - WebUI Forge
 - GPT crawler
 - GPT4ALL
+- Plandex
 - Olive
-- CasaOS
 - Ice
 - zsh-autosuggestions
 - Quill
+- Second Me
 - GitHub Desktop - The Linux Fork
+- CodiMD
 - fullmoon
+- STORM
 - HTTPie CLI
 - HTTPie Desktop
 - Phoenix
@@ -29,6 +32,7 @@
 - Refact
 - Battery Toolkit
 - Papermerge DMS
+- Atuin Desktop
 
 ## No Longer Exists:
-_None_
+- Glass
