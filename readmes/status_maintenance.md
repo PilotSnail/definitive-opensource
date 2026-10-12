@@ -5,8 +5,8 @@
 - GPT crawler
 - GPT4ALL
 - Plandex
+- Persepolis
 - Olive
-- Ice
 - zsh-autosuggestions
 - Quill
 - Second Me
