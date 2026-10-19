@@ -28,6 +28,7 @@
 - Overseerr
 - Reor
 - File Browser
+- windsurf.vim
 - Airweave
 - Refact
 - Battery Toolkit
