@@ -18,6 +18,7 @@
 - HTTPie Desktop
 - Phoenix
 - A/B Street
+- Web Clipper
 
 ## Archived:
 - AgentGPT
