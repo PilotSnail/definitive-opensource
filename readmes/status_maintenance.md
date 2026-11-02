@@ -16,6 +16,7 @@
 - STORM
 - HTTPie CLI
 - HTTPie Desktop
+- Plash
 - Phoenix
 - A/B Street
 - Web Clipper
@@ -33,6 +34,7 @@
 - Airweave
 - Refact
 - Battery Toolkit
+- Soft Serve
 - Papermerge DMS
 - Atuin Desktop
 
