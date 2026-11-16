@@ -32,6 +32,7 @@
 - Reor
 - File Browser
 - windsurf.vim
+- UI-TARS
 - Airweave
 - Refact
 - Battery Toolkit
